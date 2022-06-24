@@ -12,6 +12,7 @@
   "author": "Juan Camilo Rivas Molina",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.18.3",
     "dotenv": "^16.0.1",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4",
